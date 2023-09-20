@@ -1,0 +1,1 @@
+A repository made by Ibnu Naufal that contains a project of lessons learned from this [video](https://www.youtube.com/watch?v=yyUHQIec83I)
